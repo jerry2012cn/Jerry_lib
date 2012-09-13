@@ -1,0 +1,13 @@
+{
+	"auto_upgrade_last_run": 1347495753,
+	"installed_packages":
+	[
+		"Alignment",
+		"CTags",
+		"Gist",
+		"Package Control",
+		"sublime-github",
+		"TextFormatting",
+		"TrailingSpaces"
+	]
+}
